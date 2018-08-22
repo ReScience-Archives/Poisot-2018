@@ -9,21 +9,21 @@ Address:
 Contact:
   - timothee.poisot@umontreal.ca
 Editor:
-  - Name Surname
+  - Karthik Ram
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Philipp Boersch-Supan
+  - Sam Urmy.
 Publication:
-  received:  Sep, 1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  received:  Oct, 1, 2017
+  accepted:  Jul, 6, 2018
+  published: Aug, 22, 2018
+  volume:    "**4**"
   issue:     "**1**"
-  date:      Sep 2015
-  number: 1
+  date:      Aug 2018
+  number: 6
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "https://github.com/ReScience-Archives/Poisot-2018/article"
+  code:      "https://github.com/ReScience-Archives/Poisot-2018/code"
   data:      
   notebook:  
 Reproduction:
